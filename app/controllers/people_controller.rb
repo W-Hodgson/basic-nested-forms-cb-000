@@ -25,6 +25,7 @@ class PeopleController < ApplicationController
         :city,
         :state,
         :zipcode,
+        :address_type
       ]
     )
   end
